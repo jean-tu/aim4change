@@ -6,6 +6,7 @@ This idea and application was built for Target Women In Technology Symposium Hac
 * [Sophie Manum](https://www.linkedin.com/in/sophiemanum)
 * [Stephanie Tam](https://www.linkedin.com/in/tamstephaniek)
 * [Jean Tu](https://www.linkedin.com/in/jeantu)
+
 We had decided to name our team 4th Harmony becuase we were team #4 and 5th Harmony was playing in the background when we were trying to come up with a team name
 
 ##The Application 
