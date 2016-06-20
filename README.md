@@ -2,7 +2,7 @@
 
 ##About
 This idea and application was built for Target Women In Technology Symposium Hackathon by: 
-* [Kat Aiello](https://www.linkedin.com/in/kat-aiello-b878ab62)
+* [Mary Grace Blair](https://www.linkedin.com/in/mary-grace-blair-085232108)
 * [Sophie Manum](https://www.linkedin.com/in/sophiemanum)
 * [Stephanie Tam](https://www.linkedin.com/in/tamstephaniek)
 * [Jean Tu](https://www.linkedin.com/in/jeantu)
